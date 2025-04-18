@@ -98,6 +98,11 @@ Once everything is running, you will:
 - Watch PostgreSQL table retail_sales_stream update in real time
 - Interact with a live dashboard in your browser showing the latest sales activity
 
+## Demo
+
+![Retail Sales Pipeline Demo](retail_sales_analysis.gif)
+
+
 ## Author
 
 Ajith Kumar Dugyala
